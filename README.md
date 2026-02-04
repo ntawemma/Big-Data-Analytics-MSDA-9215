@@ -15,10 +15,8 @@ This repository contains the implementation and analysis of a large-scale US roa
 - Cypher
 - Python (NetworkX, Plotly, Neo4j Driver)
 
-### Author
-Emmanuel NTAWUYIRUSHA
-
 ### Group Names
 NTAWUYIRUSHA Emmanuel 101287
 Javan NGIRIMANA 101415
 KABERUKA NSABIMANA Augustin 101061
+
